@@ -1,0 +1,7 @@
+# Yihan Zhu
+
+Machine learning engineer at [StackAdapt](https://www.stackadapt.com) in Toronto. Engineer building products.
+
+I write weekly at [yihanzhu.com](https://yihanzhu.com).
+
+[X](https://x.com/yihanzhuu) · [LinkedIn](https://www.linkedin.com/in/yihanzhuu) · [Instagram](https://www.instagram.com/yihanzhuu) · [App Store](https://apps.apple.com/us/developer/yihan-zhu/id1884488915) · [Meet](https://cal.com/yihanzhu)
