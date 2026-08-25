@@ -1,7 +1,7 @@
 <div align="center">
 
-### Engineer building products.
+### I build software to find out.
 
-One essay a week at [yihanzhu.com](https://yihanzhu.com).
+Write once a week at [yihanzhu.com](https://yihanzhu.com).
 
 </div>
