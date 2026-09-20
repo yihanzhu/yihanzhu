@@ -1,7 +1,10 @@
 <div align="center">
 
 <a href="https://yihanzhu.com">
-  <img src="assets/logo.png" alt="Yihan Zhu" width="64" height="64" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.svg" />
+    <img src="assets/logo-light.svg" alt="Yihan Zhu" width="64" height="64" />
+  </picture>
 </a>
 
 ### I build software to find out.
