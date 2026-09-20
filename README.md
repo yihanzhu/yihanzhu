@@ -2,8 +2,8 @@
 
 <a href="https://yihanzhu.com">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yihanzhu/portfolio/main/public/logo.svg" />
-    <img src="https://raw.githubusercontent.com/yihanzhu/portfolio/main/public/logo-light.svg" alt="Yihan Zhu" width="48" height="48" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://yihanzhu.com/logo.svg" />
+    <img src="https://yihanzhu.com/logo-light.svg" alt="Yihan Zhu" width="48" height="48" />
   </picture>
 </a>
 
