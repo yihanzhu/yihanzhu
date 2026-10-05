@@ -13,4 +13,6 @@ Write once a week at [yihanzhu.com](https://yihanzhu.com).
 
 Contributing to [Apache Maka (Incubating)](https://github.com/apache/maka)
 
+iOS apps: [SetCue](https://apps.apple.com/app/id6769392362) · [MapleDays](https://apps.apple.com/app/id6760440947) · [SnoFlow](https://apps.apple.com/app/id6756376941)
+
 </div>
